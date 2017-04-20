@@ -1,0 +1,20 @@
+{
+  "name": "my-rotate",
+  "authors": [
+    "Joel <joelrzief@gmail.com>"
+  ],
+  "description": "",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
